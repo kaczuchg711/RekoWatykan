@@ -1,0 +1,19 @@
+img {
+    /*visibility: hidden;*/
+    padding: 25% 25% 25% 25%;
+}
+
+
+.login-form {
+    margin: auto;
+    background: white;
+    border-radius: 2em;
+    padding: 2em 2em 3em;
+    border: solid;
+    border-width: 0.15em;
+}
+
+label {
+    margin-bottom: 0px;
+    margin-top: 10px;
+}
